@@ -1,0 +1,66 @@
+body {
+	background: linear-gradient(
+		to bottom,
+		black 0%,
+		black 11%,
+		white 11%,
+		white 98%,
+		black 98%,
+		black 100%);
+	}
+
+h1, h4 { 
+		font-family: Arial, serif;
+		color: #450084;
+		}
+
+h6 { 
+	font-family: Arial, serif;
+	color: #998200;
+	}
+p {
+	font-family: Arial, serif;
+	}
+
+/* unvisited link */
+a:link {
+  color: #000000;
+}
+
+/* visited link */
+a:visited {
+  color: #000000;
+}
+
+/* mouse over link */
+a:hover {
+  color: #998200;
+}
+
+/* selected link */
+a:active {
+  color: #450084;
+}
+
+.bolded { 
+		font-weight: bold; 
+		}
+
+.emphasized { 
+			font-style: italic; 
+			}
+.underlined {
+			text-decoration: underline;
+			}
+
+.list{
+ 	list-style-type: square;
+ 	font-family: Arial, serif;
+	}
+
+.space {
+	float: right ;
+}
+
+
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
